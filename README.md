@@ -3,3 +3,5 @@ Hey there!
 You've reached my (rather inactive) GitHub profile. I'm not currently working on anything public, but *Stay Tuned™* for future projects.
 
 If you'd like to contact me, please do so through Discord. My user is `scarlett#1891`. I promise I won't bite!
+
+Television continues to rule the nation.
