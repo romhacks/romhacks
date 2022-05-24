@@ -1,8 +1,9 @@
 Hey there!
 
-I'm scarlett, and this is in fact my github profile.
+We're Scarlett, hobbyist programmers and general technology enthusiasts.
+There's not much of anything good here right now, but we're working on several things that might be available soon ;)
 
-I'm currently learning Flutter and Dart to hopefully contribute to future projects. Rust too. Not to contribute to anything, just because I feel like we need to learn Rust. You should feel that too.
+We're currently learning Rust and Flutter.
 
 If you'd like to contact us, please do so through Discord. My user is `scarlett#1891`. I promise we won't bite!
 
